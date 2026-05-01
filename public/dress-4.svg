@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 1200'>
+  <defs>
+    <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#111'/>
+      <stop offset='100%' stop-color='#333'/>
+    </linearGradient>
+  </defs>
+  <rect width='900' height='1200' fill='url(#g)'/>
+  <ellipse cx='450' cy='250' rx='90' ry='110' fill='#d9d9d9'/>
+  <path d='M260 520 Q450 330 640 520 L710 1080 L190 1080 Z' fill='#f5f5f5'/>
+  <path d='M300 580 Q450 450 600 580 M280 680 Q450 550 620 680 M240 800 Q450 680 660 800' stroke='#000' stroke-width='16' fill='none' opacity='0.85'/>
+  <text x='50%' y='1140' text-anchor='middle' font-family='Arial' font-size='36' fill='white' opacity='0.55'>SS COLLECTION</text>
+</svg>
